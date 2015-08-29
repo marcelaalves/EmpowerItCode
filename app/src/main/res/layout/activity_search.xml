@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+
+
+        <include layout="@layout/title_bar"></include>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="39dp"
+            android:background="@drawable/back_search">
+
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"></LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Company name"
+                android:id="@+id/editText" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="1">
+
+
+                <AutoCompleteTextView
+                    android:layout_width="255dp"
+                    android:layout_height="wrap_content"
+                    android:hint="Country"
+                    android:layout_weight="1.21"
+                    android:id="@+id/autoCompleteTextView" />
+
+
+                <Button
+
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:id="@+id/button"
+                    android:background="@drawable/ic_search" />
+                >
+            </LinearLayout>
+
+
+            <Spinner
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:id="@+id/industry_list"
+
+                />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="#keywords"
+                android:id="@+id/editText4" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="39dp"
+            android:background="@drawable/wobs_filters">
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="1"
+                android:layout_marginTop="5dp">
+
+                <AutoCompleteTextView
+                    android:layout_width="255dp"
+                    android:layout_height="wrap_content"
+                    android:hint="Awards"
+                    android:layout_weight="1.21"
+                    android:id="@+id/autoCompleteTextView5" />
+
+                <Button
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:id="@+id/button28"
+                    android:background="@drawable/ic_search" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="1"
+                android:layout_marginTop="5dp">
+
+                <AutoCompleteTextView
+                    android:layout_width="255dp"
+                    android:layout_height="wrap_content"
+                    android:hint="Certification"
+                    android:layout_weight="1.21"
+                    android:id="@+id/autoCompleteTextView55" />
+
+                <Button
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:id="@+id/button2"
+                    android:background="@drawable/ic_search" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="1"
+                android:layout_marginTop="5dp">
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_marginTop="5dp"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="% of Business Owned by woman"
+                android:id="@+id/textView5"
+                android:textColor="#152d53" />
+
+            <SeekBar
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/seekBar"
+                android:layout_gravity="center_horizontal" />
+
+
+            <CheckBox
+                android:layout_marginTop="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Maneged by Woman"
+                android:textColor="#152d53"
+                android:id="@+id/checkBox2" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="5dp"
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="116dp"
+            android:layout_gravity="bottom"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp">
+
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:weightSum="1">
+
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:weightSum="1">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:text="# Year of Stablishment"
+                        android:layout_gravity="bottom"
+                        android:textColor="#152d53"
+                        android:id="@+id/textView6"
+                        android:layout_weight="0.80"/>
+
+                    <EditText
+                        android:layout_width="20dp"
+                        android:layout_height="wrap_content"
+                        android:inputType="number"
+                        android:ems="10"
+                        android:layout_gravity="bottom"
+                        android:id="@+id/editText2495"
+                        android:layout_weight="0.20" />
+
+
+                </LinearLayout>
+
+                <Button
+                    android:layout_width="119dp"
+                    android:layout_height="42dp"
+                    android:background="@drawable/button_go"
+                    android:id="@+id/btn_search"
+
+                    android:layout_gravity="center_horizontal" />
+
+
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+</ScrollView>

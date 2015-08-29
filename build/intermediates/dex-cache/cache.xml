@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\marcela.alves\.gradle\caches\modules-2\files-2.1\com.smartcanvas\smartcanvas-java-sdk\0.1.8\36dbd7a3cdce82e4f4d9a95a06d93bc9bdcb39d4\smartcanvas-java-sdk-0.1.8.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="36dbd7a3cdce82e4f4d9a95a06d93bc9bdcb39d4">
+        <dex dex="C:\Users\marcela.alves\workspace\EmpowerItAppCodeOTHOM\app\build\intermediates\pre-dexed\debug\smartcanvas-java-sdk-0.1.8-0e7a42920225f129cebf2a4616a834102a1904e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\marcela.alves\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.20.0\2408070b2abec043624d35b35e30450f1b663858\google-http-client-jackson2-1.20.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="C:\Users\marcela.alves\workspace\EmpowerItAppCodeOTHOM\app\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.20.0-0262a87220d4d463254a30a1143527e65d47214f.jar" />
+    </item>
+    <item
+        jar="C:\Users\marcela.alves\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.20.0\1d086ac5756475ddf451af2e2df6e288d18608ca\google-oauth-client-1.20.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="C:\Users\marcela.alves\workspace\EmpowerItAppCodeOTHOM\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.20.0-c2f8807dd94508f33b8fa425a03f8398017e39dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\marcela.alves\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\marcela.alves\workspace\EmpowerItAppCodeOTHOM\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.3-6044ee61d162eff76d6aa12581a91f80f92e748e.jar" />
+    </item>
+    <item
+        jar="C:\Users\marcela.alves\workspace\EmpowerItAppCodeOTHOM\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\marcela.alves\workspace\EmpowerItAppCodeOTHOM\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-7948a6ba2642c003c775eca3c9231368692a20c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\marcela.alves\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.20.0\93d82db2bca534960253f43424b2ba9d7638b4d2\google-http-client-1.20.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="C:\Users\marcela.alves\workspace\EmpowerItAppCodeOTHOM\app\build\intermediates\pre-dexed\debug\google-http-client-1.20.0-d7f0129914a4ed02d948f4b4fdcc77bb9bd610f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\marcela.alves\workspace\EmpowerItAppCodeOTHOM\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\marcela.alves\workspace\EmpowerItAppCodeOTHOM\app\build\intermediates\pre-dexed\debug\classes-0dbde623adc60fbe711608eb42277acf9cde519b.jar" />
+    </item>
+    <item
+        jar="C:\Users\marcela.alves\.gradle\caches\modules-2\files-2.1\org.bitbucket.b_c\jose4j\0.4.3\10cf2499d78094813fa847d40f8e727ede496c7a\jose4j-0.4.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="10cf2499d78094813fa847d40f8e727ede496c7a">
+        <dex dex="C:\Users\marcela.alves\workspace\EmpowerItAppCodeOTHOM\app\build\intermediates\pre-dexed\debug\jose4j-0.4.3-e883c6920a6301891bddc4728ede8c35fdcfc609.jar" />
+    </item>
+    <item
+        jar="C:\Users\marcela.alves\workspace\EmpowerItAppCodeOTHOM\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\marcela.alves\workspace\EmpowerItAppCodeOTHOM\app\build\intermediates\pre-dexed\debug\classes-ad0309d80ebf0a6602b2b62273d6ebb925a382a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\marcela.alves\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.20.0\d3e66209ae9e749b2d6833761e7885f60f285564\google-api-client-1.20.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="C:\Users\marcela.alves\workspace\EmpowerItAppCodeOTHOM\app\build\intermediates\pre-dexed\debug\google-api-client-1.20.0-4fe95581cc8dade2b382003548a6c0a9538f8545.jar" />
+    </item>
+    <item
+        jar="C:\Users\marcela.alves\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\marcela.alves\workspace\EmpowerItAppCodeOTHOM\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9-08d6970b93bfbf82606a1c10e68e035b7ffb570b.jar" />
+    </item>
+    <item
+        jar="C:\Users\marcela.alves\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="C:\Users\marcela.alves\workspace\EmpowerItAppCodeOTHOM\app\build\intermediates\pre-dexed\debug\guava-jdk5-13.0-1a4686769e71e137d1b0adc6b3767f0219ff1947.jar" />
+    </item>
+    <item
+        jar="C:\Users\marcela.alves\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\marcela.alves\workspace\EmpowerItAppCodeOTHOM\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-efe5e47350dd342fabe5920bbfc4347cfb45778f.jar" />
+    </item>
+
+</items>
